@@ -3,6 +3,9 @@
   "customizations": {
     "codespaces": {
       "repositories": {
+        "harrycot/codespace": {
+          "permissions": "write-all"
+        },
         "harrycot/foostack": {
           "permissions": "write-all"
         },
