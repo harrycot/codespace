@@ -1,0 +1,14 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "harrycot/foostack": {
+          "permissions": "write-all"
+        },
+        "harrycot/webextension": {
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
