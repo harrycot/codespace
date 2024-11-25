@@ -1,4 +1,5 @@
 {
+  "onCreateCommand": "setup.sh",
   "customizations": {
     "codespaces": {
       "repositories": {
