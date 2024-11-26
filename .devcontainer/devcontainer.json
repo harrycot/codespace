@@ -1,7 +1,7 @@
 {
   "features": {
     "node": {
-        "version": "18.20.5",
+        "version": "18.5.0",
         "nodeGypDependencies": true
     }
   },
