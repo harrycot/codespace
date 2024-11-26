@@ -1,4 +1,10 @@
 {
+  "features": {
+    "node": {
+        "version": "18.20.5",
+        "nodeGypDependencies": true
+    }
+  },
   "customizations": {
     "codespaces": {
       "repositories": {
